@@ -137,10 +137,10 @@ int nose::getAngleTails() {
         digitalWrite(LEDG, HIGH);
             rt2Time = millis();
             ringServo.write(75);
-            if ( (amountSeen > 2 && index < 3) || amountSeen == 0) { //CHANGE was no ammountseen == 0
+            /*if ( (amountSeen > 2 && index < 3) ) { //CHANGE was no ammountseen == 0
                 // approaching corner
                 stateCounter++;
-                }
+                }*/
             if ( amountSeen == 0) {
                 ++stateCounter;
                 missedLineReverse = true;
@@ -284,7 +284,7 @@ int nose::getAngleTails() {
           
         case GENTLE_RT: 
           rt2Time = millis();
-          if(index <= 4){ //CHANGE was == 4
+          if(index <= 4 && amountSeen > 0){ //CHANGE was == 4
             stateCounter++;
           }
           break;
