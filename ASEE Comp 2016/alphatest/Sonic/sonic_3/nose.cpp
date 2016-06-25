@@ -344,7 +344,7 @@ int nose::getAngleTails() {
      case BACK_UP_STRAIGHT:
          //driveSpeed = 0;
          rt3Time = millis();
-        if((millis() - rt2Time) > 400 + (missedLineReverse ? 25 : 0) ){ // CHANGE added ternay expression
+        if((millis() - rt2Time) > 400 + (missedLineReverse ? 20 : 0) ){ // CHANGE added ternay expression
               stateCounter++;
           }
           
