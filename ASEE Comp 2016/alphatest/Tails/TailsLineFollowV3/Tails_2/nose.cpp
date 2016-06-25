@@ -278,7 +278,7 @@ int nose::getAngleTails() {
 
         case FOLLOW_TIME_STOP:
           digitalWrite(A8, HIGH);
-          if((millis() - rt2Time) > 4500){
+          if((millis() - rt2Time) > 4600){
               stateCounter++;
           }
           break;
