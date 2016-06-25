@@ -309,7 +309,7 @@ int nose::getAngleTails() {
 
       case RIGHT_TURN_MAX_2: 
           digitalWrite(A8, HIGH);
-          if((millis() - rt3Time) > 2000){
+          if((millis() - rt3Time) > 1750){
               stateCounter++;
           }
           break;
