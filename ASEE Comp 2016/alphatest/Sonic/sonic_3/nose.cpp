@@ -43,6 +43,7 @@ void nose::steer() {
 
 int nose::getAngleTails() {
     static int lastAngle = NOSE_CENTER;
+    static bool missedLineReverse = false;
     int angle = 0;      // value that will be returned
     
     int num = 45; // used for the TURN_TO_LINE CASE
@@ -136,10 +137,15 @@ int nose::getAngleTails() {
         digitalWrite(LEDG, HIGH);
             rt2Time = millis();
             ringServo.write(75);
-            if (amountSeen > 2 && index < 3) {
+            if ( (amountSeen > 2 && index < 3) || amountSeen == 0) { //CHANGE was no ammountseen == 0
                 // approaching corner
                 stateCounter++;
                 }
+            if ( amountSeen == 0) {
+                ++stateCounter;
+                missedLineReverse = true;
+              
+            }
            break;
 
         // initial small turn
@@ -278,7 +284,7 @@ int nose::getAngleTails() {
           
         case GENTLE_RT: 
           rt2Time = millis();
-          if(index == 4){
+          if(index <= 4){ //CHANGE was == 4
             stateCounter++;
           }
           break;
@@ -338,7 +344,7 @@ int nose::getAngleTails() {
      case BACK_UP_STRAIGHT:
          //driveSpeed = 0;
          rt3Time = millis();
-        if((millis() - rt2Time) > 400){
+        if((millis() - rt2Time) > 400 + (missedLineReverse ? 25 : 0) ){ // CHANGE added ternay expression
               stateCounter++;
           }
           
