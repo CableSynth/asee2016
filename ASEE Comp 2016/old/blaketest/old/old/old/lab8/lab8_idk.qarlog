@@ -1,0 +1,209 @@
+Quartus II Archive log --	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk.qarlog
+
+Archive:	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk.qar
+Date:		Sun Nov 08 16:01:46 2015
+Quartus II		7.2 Build 207 03/18/2008 SP 3 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Char_ROM.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Clock_Divider.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Clock_Divider.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Clock_Divider.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Consant1.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Consant1.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Consant1.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Four_Bit_Compare.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Four_Bit_Compare.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Four_Bit_Compare.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Keyboard_7_Segment.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Keyboard_7_Segment.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.asm.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.bdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.cdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.done
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.dpf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.fit.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.fit.smsg
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.fit.summary
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.flow.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.map.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.map.summary
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.pin
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.pof
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.qarlog
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.qsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.sof
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.tan.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8.tan.summary
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/LAB8_assignment_defaults.qdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Lab8_VGA.qarlog
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/MUX_2by7to1.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/MUX_2by7to1.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/MUX_2by7to1.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/MUX_2x4.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/MUX_2x4.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/MUX_2x4.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Pattern.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Pattern.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Pattern_2.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Pattern_2.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Reg7.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Reg7.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Reg7.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Seven_Seg_2_Binary.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Seven_Seg_2_Binary.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Seven_Seg_Driver.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/Seven_Seg_Driver.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/TCGROM.MIF
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/VGA.qarlog
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/VGA_Mux.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/VGA_Mux.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/VGA_Mux.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/VGA_SYNC.VHD
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/VGA_SYNC.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/add.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/add.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/add.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfasdf2.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfasdf2.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfasdf2.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfgasfeth.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfgasfeth.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfgasfeth.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfsdfg.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfsdfg.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/asdfsdfg.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/assignment_defaults.qdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/axddfg.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/axddfg.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/axddfg.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/bcomp.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/bcomp.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/bcomp.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/bussgnd.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/bussgnd.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/bussgnd.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/c_Comp.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/c_Comp.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/c_Comp.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/collected.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/collected.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/collected.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/colors.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/colors.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/colors.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/LAB8.cbx.xml
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/LAB8.qpf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_5mc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_6mc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_7mc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_8mc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_9mc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_amc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_bmc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_fne.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_hte.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_lkc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_mkc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_okc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_pkc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_qkc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_rkc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_skc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_tkc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/add_sub_toe.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/alt_u_div_hve.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/altsquare_4la.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/altsquare_cmd.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cmpr_9hg.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cmpr_g7j.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_2fj.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_3cg.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_7mh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_8mh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_9ci.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_9mh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_amh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_inh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_rkh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/cntr_vai.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/lpm_constant_6e6.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/lpm_constant_mh6.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/lpm_constant_sf6.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/lpm_divide_jer.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/mult_uop.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/mux_03e.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/mux_33e.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/mux_63e.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/mux_tmc.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/db/sign_div_unsign_8kh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/dfg.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/dfg.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/dfg.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/doujble.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/doujble.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/doujble.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horixcoun.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horixcoun.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horixcoun.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horiz.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horiz.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horiz.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horizcounter.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horizcounter.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/horizcounter.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/multiplier.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/multiplier.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/multiplier.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/randomnumber.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/randomnumber.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/randomnumber.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/randseedhelp.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/randseedhelp.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/randseedhelp.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/reand.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/reand.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/reand.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/restrict.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/restrict.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/restrict.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/score.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/score.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/score.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/seafasdf.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/seafasdf.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/seafasdf.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/seed.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/seed.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/seed.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/source.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/source.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/source.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/sqrt.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/sqrt.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/sqrt.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/tester.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/tester.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/lab8project/lab8_restored/tester.vhd
+	======= Total: 180 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Nov 08 16:02:25 2015
+Source archive file:	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk.qar
+Archive was extracted into	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk_restored
+		 - successfully.
+
+
+******* Archived project restoration attempt on Mon Nov 09 17:45:05 2015
+Source archive file:	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk.qar
+Archive was extracted into	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk_restored
+		 - successfully.
+
+
+******* Archived project restoration attempt on Mon Nov 09 17:57:13 2015
+Source archive file:	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk.qar
+Archive was extracted into	T:/Engineering Competitions/ASEE ROBOT/2016/arduino/MichaelTest/lab8_idk_restored
+		 - successfully.

@@ -1,0 +1,58 @@
+Quartus II Archive log --	S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.qarlog
+
+Archive:	S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.qar
+Date:		Fri Jan 25 12:53:21 2008
+Quartus II		7.2 Build 151 09/26/2007 SJ Web Edition
+
+	=========== Files Selected: ===========
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Clock_Divider.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Clock_Divider.inc
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Clock_Divider.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Consant1.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Consant1.inc
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Consant1.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Four_Bit_Compare.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Four_Bit_Compare.inc
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Four_Bit_Compare.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.asm.rpt
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.bdf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.done
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.dpf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.fit.rpt
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.fit.smsg
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.fit.summary
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.flow.rpt
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.map.rpt
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.map.summary
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.pin
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.pof
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.qsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.sof
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.tan.rpt
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/LAB8.tan.summary
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/MUX_2by7to1.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/MUX_2by7to1.inc
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/MUX_2by7to1.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/MUX_2x4.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/MUX_2x4.inc
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/MUX_2x4.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Pattern.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Pattern.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Pattern_2.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Pattern_2.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Seven_Seg_Driver.bsf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/Seven_Seg_Driver.vhd
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/LAB8.cbx.xml
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/LAB8.qpf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/cmpr_9hg.tdf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/cntr_7mh.tdf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/cntr_amh.tdf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/lpm_constant_mh6.tdf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/lpm_constant_sf6.tdf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/mux_33e.tdf
+S:/DEPT/EG/Courses/EGCP_1010 DLD/Quartus Files/LAB_8/db/mux_63e.tdf
+c:/altera/72/quartus/bin/assignment_defaults.qdf
+	======= Total: 47 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

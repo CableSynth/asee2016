@@ -1,0 +1,76 @@
+Quartus II Archive log --	C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/VGA.qarlog
+
+Archive:	C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/VGA.qar
+Date:		Wed Nov 04 17:14:44 2015
+Quartus II		7.2 Build 207 03/18/2008 SP 3 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Char_ROM.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Clock_Divider.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Clock_Divider.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Clock_Divider.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Consant1.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Consant1.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Consant1.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Four_Bit_Compare.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Four_Bit_Compare.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Four_Bit_Compare.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.asm.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.bdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.done
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.dpf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.fit.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.fit.smsg
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.fit.summary
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.flow.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.map.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.map.summary
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.pin
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.pof
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.qarlog
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.qsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.sof
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.tan.rpt
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8.tan.summary
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/LAB8_assignment_defaults.qdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Lab8_VGA.qarlog
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/MUX_2by7to1.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/MUX_2by7to1.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/MUX_2by7to1.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/MUX_2x4.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/MUX_2x4.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/MUX_2x4.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Pattern.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Pattern.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Pattern_2.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Pattern_2.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Seven_Seg_Driver.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/Seven_Seg_Driver.vhd
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/TCGROM.MIF
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/VGA_Mux.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/VGA_Mux.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/VGA_Mux.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/VGA_SYNC.VHD
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/VGA_SYNC.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/assignment_defaults.qdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/bcomp.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/bcomp.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/bcomp.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/c_Comp.bsf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/c_Comp.inc
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/c_Comp.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/LAB8.cbx.xml
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/LAB8.qpf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/cmpr_9hg.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/cmpr_g7j.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/cntr_7mh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/cntr_amh.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/lpm_constant_mh6.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/lpm_constant_sf6.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/mux_33e.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/mux_63e.tdf
+C:/Users/blasky.CL-ENS141-01/Desktop/vga/VGA VHDL Files/LAB8_VGA_restored/db/mux_tmc.tdf
+	======= Total: 65 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,87 @@
+******************** check wall sensor data ******************
+   /*while(true) {
+//        if(prt.available() > 0) {
+//            serial_temp = prt.read()-'0';
+//            if(serial_temp >= 0 && serial_temp <= 9){
+//                input = (serial_temp) * 30;
+//            }
+//        }
+//        dist = analogRead(WALL_SENSOR_R);
+//        int err = (300 - dist);
+//        int angle;
+        delay(500);
+        prt.println(analogRead(GARAGE_SENSOR));
+//        prt.print('\t');
+//        prt.print(err);
+//        prt.print('\t');
+//        if (dist > 305) {
+//          angle = STEERING_CENTER - err/50;
+//          //prt.println(angle);
+//          //setServo(angle, steeringMotor);
+//        } else if (dist < 295) {
+//          angle = STEERING_CENTER - err/10;
+//          //prt.println(angle);
+//          //setServo(angle, steeringMotor);
+//        }
+//        
+//        if (input != 0) {
+//            drive(steeringMotor.read() - STEERING_CENTER, input);
+//        } else {
+//            drive(steeringMotor.read() - STEERING_CENTER, 0);
+//        }
+        
+    }*/
+    
+    
+    //delay(1000);
+    // get input from bluetooth
+    // 0-9: speeds
+//    if(prt.available() > 0) {
+//        serial_temp = prt.read()-'0';
+//        if(serial_temp >= 0 && serial_temp <= 9){
+//            input = (serial_temp) * 30;
+//        }
+//    }
+
+
+
+
+
+
+
+********************* AFTER DRIVE SUMTHIN****************************
+
+        
+//        if (steer(lineSensor, steeringMotor, input)) {
+//            drive(steeringMotor.read() - STEERING_CENTER, SPEED);
+//        } else {
+//            drive(steeringMotor.read() - STEERING_CENTER, 0);
+//        }
+//    } else {
+//        drive(steeringMotor.read() - STEERING_CENTER, 0);
+//    }
+
+
+
+
+
+
+
+
+
+***********************************************************************************
+    /*
+     *    Steering servo calibration code 
+     */
+    /*while(1) {
+        if(Serial.available() > 2) {
+            serial_temp = Serial.read()-'0';
+            serial_temp = serial_temp * 10 + Serial.read()-'0';
+            serial_temp = serial_temp * 10 + Serial.read()-'0';
+            Serial.println(serial_temp);
+            //if(serial_temp >= 0 && serial_temp <= 9){
+//                steeringMotor.write(serial_temp);
+                moveServo(serial_temp, steeringMotor);
+            //}
+        }
+    }*/

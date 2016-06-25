@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Nov 10 13:56:29 2015
+Quartus II Version : 7.2 Build 207 03/18/2008 SP 3 SJ Web Edition
+Revision Name : LAB8
+Top-level Entity Name : LAB8
+Family : Cyclone II
+Device : EP2C20F484C7
+Timing Models : Final
+Total logic elements : 789 / 18,752 ( 4 % )
+    Total combinational functions : 775 / 18,752 ( 4 % )
+    Dedicated logic registers : 131 / 18,752 ( < 1 % )
+Total registers : 131
+Total pins : 60 / 315 ( 19 % )
+Total virtual pins : 0
+Total memory bits : 0 / 239,616 ( 0 % )
+Embedded Multiplier 9-bit elements : 9 / 52 ( 17 % )
+Total PLLs : 0 / 4 ( 0 % )
