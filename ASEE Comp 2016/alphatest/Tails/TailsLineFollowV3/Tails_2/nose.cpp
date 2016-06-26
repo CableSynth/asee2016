@@ -213,7 +213,7 @@ int nose::getAngleTails() {
         case RIGHT_TURN3:
             rt2Time = millis();
             
-            if(index == 1){
+            if(index == 1 || index == 0){ // CHANGE added || index == 0
                 stateCounter++;
             }
             break;
